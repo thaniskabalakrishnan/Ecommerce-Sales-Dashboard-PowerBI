@@ -36,6 +36,3 @@ Businesses need clear visibility into sales performance, regional contribution, 
 
 ## Skills Demonstrated
 Data Cleaning | Data Modeling | Dashboard Design | Business Analysis | Data Visualization
-
-## Author
-Thaniska B
