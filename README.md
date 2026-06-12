@@ -1,38 +1,58 @@
-# Ecommerce-Sales-Dashboard-PowerBI
-Power BI dashboard analyzing ecommerce sales performance, profit trends and regional insights.
+# E-Commerce Sales Dashboard | Power BI
 
-# Ecommerce Sales Dashboard (Power BI)
+## Overview
 
-## Project Overview
-This project analyzes ecommerce sales data using Power BI to understand sales performance, profit trends, and customer purchasing behavior.
+This project presents an interactive E-Commerce Sales Dashboard developed in Power BI to analyze sales performance, profit trends, customer behavior, and regional performance. The dashboard enables businesses to monitor KPIs and make data-driven decisions.
 
 ## Business Problem
-Businesses need clear visibility into sales performance, regional contribution, and product profitability to make better strategic decisions.
 
-## Tools Used
-- Power BI Desktop
-- Data Modeling
-- Power Query
+E-commerce businesses generate large volumes of sales data. Understanding sales performance, customer trends, and profit distribution is essential for improving business growth and profitability.
+
+## Tools & Technologies
+
+- Power BI
 - DAX
-- Data Visualization
+- Data Modeling
+- Excel / CSV
 
 ## Key KPIs
-- Total Sales: $313K
-- Total Profit: $29K
-- Total Orders: 1330
-- Profit Margin: 9.27%
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value
+- Category-wise Sales
+- Regional Performance
 
 ## Dashboard Features
-- Sales analysis by region
-- Monthly sales and profit trends
-- Best selling products analysis
-- Sales performance rating
-- Interactive filters and slicers
 
-## Insights Generated
-- Central and West regions contribute highest revenue.
-- Seasonal sales variation observed across months.
-- Few products generate major portion of profit.
+- Sales Analysis
+- Profit Analysis
+- Customer Insights
+- Category Performance
+- Regional Analysis
+- Interactive Filters and Slicers
+
+## Key Insights
+
+- Identified top-performing product categories.
+- Analyzed high-revenue regions.
+- Evaluated profit contribution by category.
+- Identified customer purchasing trends.
 
 ## Skills Demonstrated
-Data Cleaning | Data Modeling | Dashboard Design | Business Analysis | Data Visualization
+
+- Data Visualization
+- Dashboard Development
+- KPI Reporting
+- Business Intelligence
+- Data Analysis
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+## Author
+
+Thaniska B
+Aspiring Data Analyst | Power BI | SQL | Python
